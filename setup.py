@@ -15,8 +15,8 @@ setup(
     description='A package for temperature analysis',
     author='Said ETTOUSY',
     author_email='said.ETTOUSY@emines.um6p.ma',
-    url='https://github.com/your_username/my_temperature_package',
-    download_url='https://github.com/your_username/my_temperature_package/archive/v0.1.tar.gz',
+    url='https://github.com/Said-taoussi/Statistic-Project-2024',
+    download_url='https://github.com/Said-taoussi/mStatistic-Project-2024/archive/v0.1.tar.gz',
     keywords=['temperature', 'analysis', 'data'],
     classifiers=[
         'Development Status :: 3 - Alpha',
