@@ -1,8 +1,0 @@
-setup.py
-Statistic_Project_2024/TemperatureModel.py
-Statistic_Project_2024/__init__.py
-Statistic_Project_2024.egg-info/PKG-INFO
-Statistic_Project_2024.egg-info/SOURCES.txt
-Statistic_Project_2024.egg-info/dependency_links.txt
-Statistic_Project_2024.egg-info/requires.txt
-Statistic_Project_2024.egg-info/top_level.txt
