@@ -11,4 +11,4 @@ Welcome to My Temperature Package! This package provides useful tools for data a
 You can install My Temperature Package using pip:
 
 ```bash
-pip install Statistic-Project-2024
+pip install Statistic_Project_2024
